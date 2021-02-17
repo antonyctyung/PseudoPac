@@ -2,5 +2,5 @@
 Command-line Pacman-like mini-game.
 
 ## Dependency
-MASM
+MASM  
 Irvine32.inc library
